@@ -1,0 +1,123 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+
+.section{
+    margin-top: 80px;
+    background-color: black;
+    width: 900px;
+    height: 450px;
+}
+
+.container{
+    width: 600px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+
+
+.h1{
+    padding-top: 40px;
+    color: aliceblue;
+}
+
+
+.btns{
+    margin-top: 40px;
+    justify-content: space-around;
+}
+
+
+
+.text{
+    padding-left: 30px;
+    margin-top: 40px;
+    width: 590px;
+    height: 40px;
+    border-radius: 4px;
+    outline: none;
+    border: none;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+
+.text::placeholder{
+    font-size: 28px;
+    color: black;
+}
+
+
+.text_select{
+    width: 500px;
+    height: 100px;
+    margin: auto;
+    margin-top: 20px;
+    border-radius: 4px;
+    outline: none;
+    background-color: rgb(170, 192, 192);
+    border-radius: 20px;
+    padding-top: 30px;
+    font-size: 28px;
+}
+
+.btn1{
+    width: 100px;
+    height: 40px;
+    border-radius: 10px;
+    outline: none;
+    background-color: red;
+    color: black;
+    border: none;
+}
+.btn2{
+    width: 100px;
+    height: 40px;
+    border-radius: 10px;
+    outline: none;
+    background-color: blue;
+    color: black;
+        border: none;
+}
+.btn3{
+    width: 100px;
+    height: 40px;
+    border-radius: 10px;
+    outline: none;
+    background-color: green;
+    color: black;
+        border: none;
+}
+.btn4{
+    width: 100px;
+    height: 40px;
+    border-radius: 10px;
+    outline: none;
+    background-color: yellow;
+    color: black;
+        border: none;
+}
+.btn5{
+    width: 100px;
+    height: 40px;
+    border-radius: 10px;
+    outline: none;
+    background-color: white;
+    color: black;
+        border: none;
+}
+.btn6{
+    width: 100px;
+    height: 40px;
+    text-decoration: underline;
+    border-radius: 10px;
+    outline: 4px;
+    background-color: aqua;
+    color: black;
+        border: none;
+}
